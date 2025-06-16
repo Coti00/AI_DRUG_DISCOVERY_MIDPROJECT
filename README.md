@@ -1,5 +1,5 @@
-##📘 AI-Based Drug Discovery: EGFR Inhibitor for Lung Cancer
-###🧬 프로젝트 개요
+📘 ## AI-Based Drug Discovery: EGFR Inhibitor for Lung Cancer
+🧬 ### 프로젝트 개요
 이 프로젝트는 인공지능(AI) 기반 신약개발 기법을 활용하여 폐암 치료 타깃인 EGFR (Epidermal Growth Factor Receptor) 억제제를 발굴하는 데 목적이 있습니다. EGFR은 비소세포폐암(NSCLC) 환자에게서 높은 발현율을 보이며, 이를 타깃으로 한 약물 개발이 활발히 이루어지고 있습니다.
 
 ###🔬 연구 배경
